@@ -1,45 +1,42 @@
-# 👋 Hi, I'm Magdy Ebrahim Ali
+<h1 align="center">Hi 👋, I'm Magdy Ebrahim Ali</h1>
+<h3 align="center">Senior Flutter Developer | Mobile Software Engineer</h3>
 
-## 💼 Senior Flutter Developer | Mobile App Architect | UI/UX Enthusiast
-
-🚀 With over 5 years of experience building scalable, cross-platform mobile applications using **Flutter & Dart**, I specialize in:
-- 🧠 Clean Architecture • Bloc • Modular Codebases
-- 🔌 REST APIs • Firebase • GraphQL • Real-time Chat
-- 🗺️ Google Maps • Media Uploads • Payment Integrations
-- 🧪 CI/CD • GitHub Actions • Testing • Debugging
-
----
-
-## 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=github-actions&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
-
----
-
-## 📱 Featured Projects
-### 🔗 [Linkey App](https://play.google.com/store/apps/details?id=com.linkeyapp.net)  
-A cross-platform service marketplace app with real-time chat, media uploads, and multi-role support.
-
-### 🔗 [Sahet ElTahadi](https://play.google.com/store/apps/details?id=com.moltaqa.sahet.eltahadi)  
-Multiplayer trivia game with animations, sounds, and real-time matchmaking.
-
-### 🔗 [Khsosy](https://play.google.com/store/apps/details?id=com.moltaqa.khsosy)  
-Educational platform supporting online lessons with Jitsi integration.
-
-### 🔗 [Modo App]  
-Food & goods delivery system with order tracking and store management (User/Provider/Delivery apps).
+<p align="center">
+  <a href="mailto:magdyebrahim155@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-magdyebrahim155@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://wa.me/201552154105?text=Hello%20Magdy%2C%20I'm%20interested%20in%20working%20with%20you" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me-Available-brightgreen?style=for-the-badge&logo=whatsapp">
+  </a>
+  <a href="https://linkedin.com/in/magdy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-magdy-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://drive.google.com/drive/folders/1Ho-tsbp4KAXBjzHAGFlciKboQsD6RWnS?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20My%20Resume-PDF-orange?style=for-the-badge&logo=googledrive">
+  </a>
+  <a href="https://flowcv.me/magdy224" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel">
+  </a>
+</p>
 
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: magdyebrahim155@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/magdy)
-- 📱 [WhatsApp](https://wa.me/201552154105)
-- 🧑‍💻 [GitHub](https://github.com/magdy)
+### 👨‍💻 About Me
+
+With over 5 years of professional experience in mobile development, I specialize in designing, building, and maintaining scalable applications using Flutter & Dart.
+
+I’ve led and contributed to full app lifecycles — from defining architecture and building core components to modifying and extending large codebases. Whether developing from scratch or enhancing existing systems, I ensure clean, modular, and maintainable code using Clean Architecture and Bloc.
+
+My work spans sectors like education, e-commerce, healthcare, and delivery — including real-time features, chat, authentication, and multi-role user flows. I also mentor junior developers and improve team workflows through code standards and component reuse.
 
 ---
 
-### ❤️ I’m currently open to freelance or full-time opportunities in mobile development.
+### 🧠 Experience Snapshot
+
+- 🧱 Designed app architectures and base structures for multi-app platforms (user, provider, delivery)  
+- 🔁 Modified and extended existing codebases with clean, scalable features  
+- 🛠️ Developed applications from scratch using Clean Architecture and Bloc  
+- 🔒 Built and maintained robust authentication systems (Firebase/Auth APIs)  
+- 📦 Integrated real-time chat, media uploads, notifications, and delivery tracking  
+- 🧩 Maintained shared components, UI systems, and flavor-based environments  
+- 👥 Collaborated with product managers, designers, and engineers in Agile teams  
