@@ -23,20 +23,15 @@
 
 ### 👨‍💻 About Me
 
-With over 5 years of professional experience in mobile development, I specialize in designing, building, and maintaining scalable applications using Flutter & Dart.
+With over 5 years of professional experience in mobile development, I specialize in designing, building, and maintaining scalable applications using **Flutter & Dart**. I’ve worked across sectors like education, e-commerce, healthcare, and delivery — building real-time chat systems, authentication flows, and multi-role platforms.
 
-I’ve led and contributed to full app lifecycles — from defining architecture and building core components to modifying and extending large codebases. Whether developing from scratch or enhancing existing systems, I ensure clean, modular, and maintainable code using Clean Architecture and Bloc.
+I’ve led and contributed to complete app lifecycles — from architecting modular codebases and shared components to modifying and extending legacy systems. Whether developing from scratch or enhancing existing apps, I apply Clean Architecture and Bloc to ensure performance, maintainability, and scalability.
 
-My work spans sectors like education, e-commerce, healthcare, and delivery — including real-time features, chat, authentication, and multi-role user flows. I also mentor junior developers and improve team workflows through code standards and component reuse.
-
----
-
-### 🧠 Experience Snapshot
-
-- 🧱 Designed app architectures and base structures for multi-app platforms (user, provider, delivery)  
-- 🔁 Modified and extended existing codebases with clean, scalable features  
-- 🛠️ Developed applications from scratch using Clean Architecture and Bloc  
-- 🔒 Built and maintained robust authentication systems (Firebase/Auth APIs)  
-- 📦 Integrated real-time chat, media uploads, notifications, and delivery tracking  
-- 🧩 Maintained shared components, UI systems, and flavor-based environments  
-- 👥 Collaborated with product managers, designers, and engineers in Agile teams  
+✅ Key Highlights:
+- 🧱 Designed base app structures for multi-app platforms (User, Provider, Delivery)  
+- 🔁 Refactored and extended codebases with scalable, clean code practices  
+- 🔒 Built robust authentication flows using Firebase/Auth APIs  
+- 📦 Integrated real-time features (chat, notifications, maps, media uploads)  
+- 🧩 Developed shared UI systems, reusable components, and flavor-based environments  
+- 👥 Collaborated with product managers and cross-functional teams in Agile settings  
+- 🤝 Mentored junior developers and enforced clean code standards across teams 
